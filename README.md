@@ -21,5 +21,5 @@ The main.py script should be used to train and test the model. The modeling_bert
 
 * Train the models using the following command and set args.do_train to True.
 
-+ Test the models setting args.do_train to False and the trained sample model can be downloaded.
++ Test the models setting args.do_train to False and the trained sample model can be [downloaded](https://drive.google.com/file/d/1cdlkbZe-oNHKnGNFGDUeynItv2Sq-fHk/view?usp=sharing).
 
