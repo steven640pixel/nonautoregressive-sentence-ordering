@@ -7,7 +7,7 @@ You may need a machine with GPUs and Pytorch v1.6.0 Python 3
 2. Install Transformers 
 
 Our implementation uses the pre-trained huggingface model for sentences encoding. 
-The pre-trained BERT model may be downloaded to a directory or invoked by huggingface.
+The pre-trained model may be downloaded to a directory or invoked by huggingface.
 
 ## Data
 
