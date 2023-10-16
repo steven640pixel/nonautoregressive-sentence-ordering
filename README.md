@@ -1,4 +1,5 @@
-# Nonautoregressive-sentence-ordering
+# Non-Autoregressive Sentence Ordering
+This is the implementation of our paper, entitled "Non-Autoregressive Sentence Ordering", which was accepted at Findings of EMNLP 2023.
 
 ## Prerequisites
 You may need a machine with GPUs and Pytorch v1.6.0 Python 3
