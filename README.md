@@ -25,9 +25,10 @@ The main.py script should be used to train and test the model. The modeling_bert
 + Test the models setting args.do_train to False and the trained sample model can be [downloaded](https://drive.google.com/file/d/1cdlkbZe-oNHKnGNFGDUeynItv2Sq-fHk/view?usp=sharing).
 
 ## Citation
+#
 If this repo is useful to your work, please cite:
 
-'''
+```
 @inproceedings{bin2023non,
   title={Non-Autoregressive Sentence Ordering},
   author={Bin, Yi and Shi, Wenhao and Ji, Bin and Zhang, Jipeng and Ding, Yujuan and Yang, Yang},
@@ -35,4 +36,4 @@ If this repo is useful to your work, please cite:
   pages={4198--4214},
   year={2023}
 }
-'''
+```
